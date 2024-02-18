@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vikas Borate vikas.borate@gmail.com timepass
 
 # THANKS
 
