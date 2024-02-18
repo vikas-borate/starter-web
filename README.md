@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ### Copyright
 2024 copy
+
+### How to contri
+Please fork this repo and then issue Pull request for review
